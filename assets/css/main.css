@@ -3402,7 +3402,7 @@ input, select, textarea {
 				opacity: 0;
 				visibility: hidden;
 			}
-
+/*
 		#intro.hidden {
 			pointer-events: none;
 			-moz-transform: translateY(2rem);
@@ -3425,7 +3425,7 @@ input, select, textarea {
 				opacity: 1;
 				visibility: visible;
 			}
-
+*/
 		body.is-preload #intro {
 			-moz-transform: translateY(2rem);
 			-webkit-transform: translateY(2rem);
@@ -3485,7 +3485,7 @@ input, select, textarea {
 
 /* Header */
 
-	#header {
+	/* #header {
 		color: #ffffff;
 		-moz-align-items: center;
 		-webkit-align-items: center;
@@ -3595,6 +3595,7 @@ input, select, textarea {
 				}
 
 		}
+				*/
 
 /* Nav */
 
